@@ -6,6 +6,8 @@
 
 Il progetto si propone di esaminare quali sono i fattori legati allo stile di vita che tendono a incidere maggiormente sulla percezione della felicità da parte di un individuo.
 
+[Visualizza il notebook qui.](https://nbviewer.org/github/MariaGraziaCorino/datascience_project/blob/74ebecbf3e8d6c12b74c5e144a25a5a9a58870c2/Notebook_Boldini_Corino_ElAidy.ipynb)
+
 ## Informazioni sul Dataset
 
 Il dataset può essere scaricato da https://vincentarelbundock.github.io/Rdatasets/csv/wooldridge/happiness.csv
